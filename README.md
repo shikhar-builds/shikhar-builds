@@ -1,10 +1,10 @@
 # Hi, I'm Shikhar Srivastava 👋
 
-Founder & CEO at an AI startup (Stealth) | Senior KAM | Builder | 
+Founder & CEO at an AI startup: HopFlux | Senior KAM | Builder | 
 Building at the intersection of AI and enterprise sales
 
 ## 👨‍💼 Who I am
-Founder & CEO of an AI startup (Stealth) and Senior Key Account Manager 
+Founder & CEO of an AI startup: HopFlux and Senior Key Account Manager 
 with over a decade of experience optimising enterprise relationships, 
 accelerating growth and delivering high-impact B2B solutions. Background 
 in FMCG with a strong focus on the tech sector (Payments), bringing a 
