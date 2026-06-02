@@ -11,7 +11,7 @@ in FMCG with a strong focus on the tech sector (Payments), bringing a
 unique blend of commercial rigour and digital innovation.
 
 ## 🚀 What I'm building
-- **AI Startup (Stealth)** — An AI-native platform replacing L1 Ops teams 
+- **AI Startup: HopFlux** — An AI-native platform replacing L1 Ops teams 
 with AI Agents for financial institutions like PSPs, banks and insurance 
 companies
 - **AI Sales Agents** — Python agents using Claude (Anthropic) applied 
