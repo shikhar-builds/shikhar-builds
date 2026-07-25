@@ -1,28 +1,22 @@
 # Hi, I'm Shikhar Srivastava 👋
 
-Founder & CEO at an AI startup: HopFlux | Senior KAM | Builder | 
-Building at the intersection of AI and enterprise sales
+Founder & CEO at HopFlux (AI-native compliance ops) | Self-funded via my day job as Senior Key Account Manager | Building agentic systems at the intersection of AI and enterprise sales
 
-## 👨‍💼 Who I am
-Founder & CEO of an AI startup: HopFlux and Senior Key Account Manager 
-with over a decade of experience optimising enterprise relationships, 
-accelerating growth and delivering high-impact B2B solutions. Background 
-in FMCG with a strong focus on the tech sector (Payments), bringing a 
-unique blend of commercial rigour and digital innovation.
+## 👤 Who I am
+
+Founder & CEO of HopFlux, self-funded through my role as Senior Key Account Manager, with over a decade of B2B experience across payments, SaaS, and FMCG, optimising enterprise relationships and delivering high-impact commercial outcomes. Over the past several months I've been building agentic AI systems, moving fast from architecture to working, tested products.
 
 ## 🚀 What I'm building
-- **AI Startup: HopFlux** — An AI-native platform replacing L1 Ops teams 
-with AI Agents for financial institutions like PSPs, banks and insurance 
-companies
-- **AI Sales Agents** — Python agents using Claude (Anthropic) applied 
-directly to Key Account Management and enterprise sales workflows
 
-## 🤖 Featured Project
-**Client Intelligence Agent** — pulls live data across strategic accounts, 
-generates AI executive summaries, and delivers automated briefings daily
+- **HopFlux** — An AI-native platform for financial institutions, automating operational workflows for PSPs, banks, and insurers
+- **AI Sales Agents** — Agentic systems applying AI directly to enterprise account management workflows
+- **Personal AI tooling** — A set of agentic products exploring how AI can augment high-stakes, real-time decision making
 
 ## 🛠️ Tech Stack
-Python, Claude API (Anthropic), VS Code, Git
+
+**AI/ML:** Claude API (Anthropic), Claude Code, LLM Integration, Prompt Engineering, Multi-Agent Orchestration (CrewAI, sub-agent delegation patterns), Structured Output / Schema-Constrained Generation (Pydantic), Vector Embeddings & Retrieval Ranking, Speech-to-Text (Whisper)
+
+**Languages & Frameworks:** Rust, Python, Tauri, FastAPI, React, MongoDB Atlas
 
 ## 📍 Based in London
 
